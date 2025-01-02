@@ -1,4 +1,4 @@
-# GDGPR Activity
+ # GDGPR Activity
 
 ## Participants
 
